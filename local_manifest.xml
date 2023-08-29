@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Device Tree -->
+  <project path="device/micromax/yogurt" name="dinonomous/android_device_micromax_yogurt.git" remote="github" revision="EvolutionX"/>
+ 
+ <!-- Kernel -->
+  <project path="kernel/micromax/yogurt" name="yogurt-devs/android_kernel_micromax_yogurt.git" remote="github" revision="android-13.0"/>
+
+ <!-- Vendor Tree -->
+  <project path="vendor/micromax/yogurt" name="yogurt-devs/android_vendor_micromax_yogurt.git" remote="github" revision="lineage-20.0"/>
+
+  <!-- Extras -->
+  <project path="device/mediatek/sepolicy_vndr" name="ArrowOS/android_device_mediatek_sepolicy_vndr.git" remote="github" revision="arrow-13.1"/>
+  
+  <!-- clang -->
+  <project path="prebuilts/clang/host/linux-x86/clang-r353983c1" name="hasanbulat/clang-r353983c1.git" remote="github" revision="master"/>
+  
+</manifest>
