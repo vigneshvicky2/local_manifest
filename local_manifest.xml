@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Device Tree -->
-  <project path="device/micromax/yogurt" name="vigneshvicky2/android_device_micromax_yogurt.git" remote="github" revision="Spark"/>
+  <project path="device/micromax/yogurt" name="vigneshvicky2/android_device_micromax_yogurt.git" remote="github" revision="Sparkos"/>
  
  <!-- Kernel -->
   <project path="kernel/micromax/yogurt" name="yogurt-devs/android_kernel_micromax_yogurt.git" remote="github" revision="android-13.0"/>
